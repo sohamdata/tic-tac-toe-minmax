@@ -1,5 +1,7 @@
 ## Tic Tac Toe using the Min-Max Algorithm
 
+live: https://tic-tac-toe-mini-max.netlify.app/
+
 [Minimax](https://en.wikipedia.org/wiki/Minimax) is a kind of backtracking algorithm that is used in decision making and game theory to find the optimal move for a player, assuming that your opponent also plays optimally. It is widely used in two player turn-based games such as Tic-Tac-Toe, Backgammon, Mancala, Chess, etc.
 
 In Minimax the two players are called maximizer and minimizer. The maximizer tries to get the highest score possible while the minimizer tries to do the opposite and get the lowest score possible.
